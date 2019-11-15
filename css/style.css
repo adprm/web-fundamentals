@@ -1,0 +1,168 @@
+.container {
+    width: 100%;
+    height: 80%;
+    background: #42455a;
+}
+
+.topbar {
+    width: 100%;
+    height: 20%;
+    background: #42455a;
+}
+
+.line {
+    background-color: #bf4aa8;
+    size: 1px;
+    height: 1px;
+
+}
+
+.menu ul {
+    display: inline-flex;
+    margin: 50px;
+}
+
+.menu ul li {
+    list-style: none;
+    margin: 0 20px;
+    color: #b2b1b1;
+    cursor: pointer;
+}
+
+.logo img {
+    width: 50px;
+    margin-top: -20px;
+    margin-right: 10px;
+}
+
+.menu a {
+    color: #19dafa !important;
+}
+
+.banner {
+    width: 80%;
+    height: 70%;
+    top: 25%;
+    left: 130px;
+    position: absolute;
+    color: #fff;
+}
+
+.app-text {
+    width: 50%;
+    float: left;
+}
+
+.app-text h1 {
+    font-size: 43px;
+    width: 640px;
+    position: relative;
+    margin-left: 40px;
+    color: orchid;
+}
+
+.app-text a {
+    color: #fff;
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.app-text p {
+    width: 650px;
+    font-size: 15px;
+    margin: 30px 0 30px 40px;
+    line-height: 25px;
+    color: #919191;
+}
+
+.image {
+    width: 50%;
+    float: right;
+}
+
+.image img {
+    width: 100%;
+    margin-top: -20px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.social-icons {
+    right: 72px;
+    bottom: 35px;
+    position: absolute;
+}
+
+.social-icons img {
+    width: 5%;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.social ul li {
+    display: inline-flex;
+    list-style: none;
+    margin: 0 20px;
+    color: #b2b1b1;
+    cursor: pointer;
+    margin: 2px;
+}
+
+.social img {
+    width: 30px;
+    margin-top: -7px;
+    margin-right: 5px;
+}
+
+.expe h3 {
+    margin: 30px 0 30px 40px;
+}
+
+.year h3 {
+    margin: 115px 0 30px 40px;
+    text-align: right;
+    color: orange;
+}
+
+.expe p {
+    width: 650px;
+    font-size: 15px;
+    margin: -20px 0 30px 40px;
+    line-height: 25px;
+    color: #919191;
+}
+
+.skills h1 {
+    color: #bf4aa8;
+}
+
+.skills h3 {
+    margin: 30px 0 30px 40px;
+}
+
+.skills ul {
+    margin: -20px 0 30px 40px;
+    color: #919191;
+}
+
+.edu ul li {
+    margin: 30px 0 30px 40px;
+}
+
+.edu p {
+    margin: -20px 0 30px 40px;
+    color: #919191;
+}
+
+.yearedu ul li {
+    text-align: right;
+    color: orange;
+    margin: 50px 0 30px 40px;
+    list-style: none;
+}
+
+.yearedu {
+    margin-top: 115px;
+}
